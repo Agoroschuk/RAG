@@ -1,6 +1,8 @@
 # RAG
 RAG-system creation 
 
+https://drive.google.com/file/d/1hfGIv7h5Lg4weUBDvOzFgp2C4dPFhWBt/view?usp=drive_link
+
 Отчет о построении RAG для туристического помощника
 
 1. Произведена предобработка данных
